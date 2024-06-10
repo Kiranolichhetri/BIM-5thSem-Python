@@ -29,5 +29,5 @@ def add(a, b):
     return a + b
 
 # Example usage
-print(add(2, 3))  # Output: 5
-print(add(5.5, 4.5))  # Output: 10.0
+print(add(2, 3))  
+print(add(5.5, 4.5))  
