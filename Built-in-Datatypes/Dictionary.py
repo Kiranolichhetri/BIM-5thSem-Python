@@ -14,3 +14,5 @@ print(my_dict.get('age'))  # Output: 25
 
 print(my_dicti['name'])  # Output: John
 print(my_dicti.get('age'))  # Output: 25
+
+print(my_dicti.keys())
