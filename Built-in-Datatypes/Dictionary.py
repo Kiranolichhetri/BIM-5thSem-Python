@@ -16,3 +16,6 @@ print(my_dicti['name'])  # Output: John
 print(my_dicti.get('age'))  # Output: 25
 
 print(my_dicti.keys())
+
+for keys in my_dicti.keys():
+    print(my_dicti[keys])
