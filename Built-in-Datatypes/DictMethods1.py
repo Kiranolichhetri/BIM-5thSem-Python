@@ -14,3 +14,15 @@ keys = ('name', 'age', 'city')
 default_value = None
 new_dict = dict.fromkeys(keys, default_value)
 print(new_dict)  # Output: {'name': None, 'age': None, 'city': None}
+
+# get
+my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
+print(my_dict.get('name'))  # Output: John
+print(my_dict.get('email', 'Not Available'))  # Output: Not Available
+
+
+# items
+my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
+print(my_dict.items())  # Output: dict_items([('name', 'John'), ('age', 25), ('city', 'New York')])
+
+
