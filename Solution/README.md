@@ -23,14 +23,14 @@ This project is designed to help you improve your Python coding skills by provid
 
 <h3>Qno.10 Display the list items in reverse order and in ascending order</h3>
 
-<h3>Qno.11 </h3>
+<h3>Qno.11 WAP to read two complex num from the user and perform their add, sub, mul, div then display the result.</h3>
 
-<h3>Qno.12 </h3>
+<h3>Qno.12 WAP to create a function that accepts variable number of arguments and defines the factorial of each. </h3>
 
-<h3>Qno.13 </h3>
+<h3>Qno.13 create a list and find maximum, minimum and cumulative sum.</h3>
 
-<h3>Qno.14 </h3>
+<h3>Qno.14 WAp to demstate diference between list and tuple.</h3>
 
-<h3>Qno.15 </h3>
+<h3>Qno.15 create a emply sit, then add 5 items con it.</h3>
 
-<h3>Qno.16 </h3>
+<h3>Qno.16 Create two sets and display their, union, intersection and difference.</h3>
