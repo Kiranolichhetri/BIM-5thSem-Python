@@ -34,3 +34,5 @@ This project is designed to help you improve your Python coding skills by provid
 <h3>Qno.15 create a emply sit, then add 5 items con it.</h3>
 
 <h3>Qno.16 Create two sets and display their, union, intersection and difference.</h3>
+
+<h3>Qnpo.17 </h3>
